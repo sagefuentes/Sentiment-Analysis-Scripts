@@ -1,0 +1,14 @@
+[project]
+name = "jan-6-sentiment-analysis-wrapper"
+version = "0.1.0"
+description = "Companion sentiment analysis wrapper for Twitter data relating to a project on analysis of January 6th 2021 tweets."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "argparse>=1.4.0",
+    "pandas>=3.0.3",
+    "pathlib>=1.0.1",
+    "torch>=2.12.0",
+    "tqdm>=4.67.3",
+    "transformers>=5.8.1",
+]
