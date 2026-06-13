@@ -27,7 +27,7 @@ Each tweet receives four scores:
 
 | Column | Description |
 |---|---|
-| `vader_compound` | Normalised score in \[-1.0, 1.0\]; primary sentiment signal |
+| `vader_compound` | Normalized score in \[-1.0, 1.0\]; primary sentiment signal |
 | `vader_positive` | Proportion of text that is positive |
 | `vader_neutral` | Proportion of text that is neutral |
 | `vader_negative` | Proportion of text that is negative |
@@ -132,5 +132,5 @@ International AAAI Conference on Weblogs and Social Media (ICWSM-14).*
 https://ojs.aaai.org/index.php/ICWSM/article/view/14550
 
 Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., Levy, O., Lewis,
-M., Zettlemoyer, L., & Stoyanov, V. (2019). *RoBERTa: A robustly optimized
-BERT pretraining approach.* arXiv. https://arxiv.org/abs/1907.11692
+M., Zettlemoyer, L., & Stoyanov, V. (2019). RoBERTa: A robustly optimized
+BERT pretraining approach. *arXiv.* https://arxiv.org/abs/1907.11692
